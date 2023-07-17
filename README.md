@@ -1,0 +1,2 @@
+# Omron_NX_NJ_NY_UTF8ToGB2312_Conversion
+适用于欧姆龙SYSMAC Studio软件，将字符由UTF-8编码转换为GB2312编码
